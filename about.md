@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Nashmia Riaz"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Oh, hello there! So glad that you've stumbled upon this little blog of mine.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+So a little bit about me: I am currently a student from Pakistan, doing my bachelors in Software Engineering. I like to code, draw digital illustrations and play games whenever I get time to. Currently, I am an aspiring game developer, graphic designer and animator. I am the kind of person who sees details in the little things and believes that presentation is key, which is why I like integrating good aesthetics into all my work. Oh, and also, I loooooove cats (a good conversation starter if you ever want to talk to me).
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Contact
+Feel free to hit me up on on my [hotmail](email::nashmia-riaz@hotmail.com) (yes, I still use hotmail :C). You can also find me on [facebook](https://www.facebook.com/NashmiaRiaz) and [github](https://github.com/nashmia-riaz).
 
-Thanks for reading!
+Thanks for stopping by!
