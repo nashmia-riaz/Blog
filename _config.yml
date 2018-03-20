@@ -1,0 +1,29 @@
+# Site settings
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/Blog"
+url:            "https://nashmia-riaz.github.io"
+
+# Author
+author:
+  name:         Nashmia Riaz
+  url:          https://chester.how
+  email:        nashmia-riaz@hotmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+theme:      tale
