@@ -1,13 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Nashmia Riaz
+description:    "A blog for my technical endeavors"
 baseurl:        "/Blog"
 url:            "https://nashmia-riaz.github.io"
 
 # Author
 author:
   name:         Nashmia Riaz
-  url:          https://chester.how
+  url:          https://github.com/nashmia-riaz
   email:        nashmia-riaz@hotmail.com
 
 # Build settings
@@ -21,9 +21,10 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - github-pages
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
 
-theme:      tale
+remote_theme: chesterhow/tale
