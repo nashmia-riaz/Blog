@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GSoC 2018 - Getting Back Up"
+title: "GSoC 2018 - It's Time to Walk"
 date: 2018-03-21 21:20:00 +0500
 categories: GSoC2018
 ---
