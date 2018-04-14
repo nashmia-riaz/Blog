@@ -10,7 +10,10 @@ Everything stopped working! Last week, I reset my laptop due to certain small co
 
 I ended up simply adding the changes requested and then pushing them. When my changes didn't pass the Travis build, I assumed that it as due to the fact that the environment on my system had broken, and left comments on my PR asking the reviewers to ignore the checks.
 
-![Big mistake! Huuuuge!](/assets/images/dwight-big-mistake.webp "Big mistake! Huuuuge!")
+{% include image.html
+            img="dwight-big-mistake.webp"
+            title="Big mistake! Huuuuge!"
+            caption="Big mistake! Huuuuge!" %}
 
 Big mistake! Huuuuge!
 
@@ -26,7 +29,10 @@ Regarding one of my PRs, the reviewer requested that I scrap my work and start o
 
 This time around, I was careful. My first task was figuring out how the request parameter was being passed. This is the order I figured out:
 
-![Student Diagram](/assets/images/StudentListDiagram.png "Student Diagram")
+{% include image.html
+            img="StudentListDiagram.png"
+            title="parameter value flow"
+            caption="Parameter Value Flow" %}
 
 So I simply had to introduce the parameter names and page names in Const.java and call pass it using the PageData.java. Most of the detection and logic was already set up in instructorCourseRemindAction. This was pretty simple and easy to do.
 
