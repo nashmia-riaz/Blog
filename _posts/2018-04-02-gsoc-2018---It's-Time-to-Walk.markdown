@@ -24,3 +24,5 @@ Applying for programs like GSoC can be overwhelming (I've lost count of how many
 
 ### Lesson 5: If You Can't Do, Then Report
 If you find yourself out of issues to solve, try tweaking with the project and reporting bugs on the forum. These count as contribution as well and show the owners that you have been working on project regardless. It also gives the impression that you understand how the code is supposed to work, and are able to point out when it behaves out of line.
+
+ #GSoC2018 #TEAMMATES
