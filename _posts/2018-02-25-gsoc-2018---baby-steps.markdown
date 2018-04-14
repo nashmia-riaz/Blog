@@ -16,11 +16,11 @@ Here's a really simplified version of what I understood:
 4. It passed the data to the .tag and .jsp files, which work together towards displaying the results as HTML.
 
 {% include image.html
-            img="codeFlowTeammates.jpg"
+            img="codeFlowTeammates.png"
             title="code flow for teammates"
             caption="Code Flow For Teammates" %}
 
-I am still not sure how the data goes from Java to being displayed as HTML, but I'm hoping I'll understand in the coming few days as I work towards fixing some issues. 
+I am still not sure how the data goes from Java to being displayed as HTML, but I'm hoping I'll understand in the coming few days as I work towards fixing some issues.
 
 
  #GSoC2018 #TEAMMATES
