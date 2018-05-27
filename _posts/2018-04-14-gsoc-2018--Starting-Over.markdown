@@ -15,8 +15,6 @@ I ended up simply adding the changes requested and then pushing them. When my ch
             title="Big mistake! Huuuuge!"
             caption="Big mistake! Huuuuge!" %}
 
-Big mistake! Huuuuge!
-
 Not only was I dead wrong, this left a bad impression on the reviewer (I'm sure) and left them confused enough to push one of my changes with the new version.
 
 ## What I Learned
