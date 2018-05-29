@@ -42,3 +42,5 @@ How we interact on social media has vastly changed since the early 2000s. One of
 ## Computer Games and Society
 
 It is evident that computer games have had a good impact on our society. They have helped advance people in their respective field of work, helped raise an intellectual youth as well as had an influence on our pop culture and media today, which is obvious from the rise of 80s culture and its video games once again. It's hard to envision our past, present and future without the contirbutive role computer games have played to shape our society.
+
+#Computer #Games #Impact #on #Society 
