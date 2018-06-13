@@ -4,8 +4,6 @@ title: "The Role of Computer Games and Their Influence on Society"
 date: 2018-05-27 23:45:00 +0500
 categories: post
 ---
-# The Role of Computer Games and Their Influence on Society
-
 Computer games have been around for decades by now. Starting with the first video game in the 1970s, the introduction of console games in the 1980s and eventually the boom of computer games in the 2000s, computer games have undoubtedly had an impact on our society. With contributions to technology, the role it plays in behaviour reconstruction of youngsters as well as it's subtle impact on social media, computer games have much evolved from their early 8-bit ancestors into life-altering experiences today.
 
 ## Computer Games - Good or Bad?
@@ -43,4 +41,4 @@ How we interact on social media has vastly changed since the early 2000s. One of
 
 It is evident that computer games have had a good impact on our society. They have helped advance people in their respective field of work, helped raise an intellectual youth as well as had an influence on our pop culture and media today, which is obvious from the rise of 80s culture and its video games once again. It's hard to envision our past, present and future without the contirbutive role computer games have played to shape our society.
 
-#Computer #Games #Impact #on #Society 
+#Computer #Games #Impact #on #Society
