@@ -3,6 +3,7 @@ layout: post
 title: "Game Review: Gone Home is a Bittersweet Game"
 date: 2018-07-30 22:52:00 +0500
 categories: games
+comments: true
 ---
 
 
