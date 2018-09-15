@@ -16,7 +16,7 @@ footer,
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
-  background-color: $default-shade;
+  background-color: $default-color;
 
   &-container {
     margin: 1rem auto;
@@ -26,7 +26,7 @@ footer,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $white;
+    color: $pink;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;

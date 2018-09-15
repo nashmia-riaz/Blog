@@ -8,11 +8,11 @@ body {
   color: $grey-3;
   margin: 0;
   padding: 0;
-  background-color: $default-shade;
+  background-color: $default-color;
 }
 
 html {
-  font-family: $serif-primary;
+  font-family: $open-sans;
   font-size: 14px;
 
   @media (min-width: 600px) {
@@ -24,13 +24,20 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-h1,
+h1{
+  background-image: linear-gradient(to left,#950740, #c3073f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Open Sans Extrabold', sans-serif;
+  font-weight: extrabold;
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  color: $white;
+  color: $pink;
   font-family: $sans-serif;
   line-height: normal;
 }

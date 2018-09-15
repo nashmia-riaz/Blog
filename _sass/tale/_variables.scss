@@ -1,20 +1,32 @@
 // Colors
-$default-color: #555;
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+#1a1a1d
+#4e4e50
+#6f2232
+#950740
+#c3073f*/
+$default-color: #1a1a1d;
 $default-shade: #353535;
-$default-tint: #aaa;
+$default-tint: #4e4e50;
 $grey-1: #979797;
 $grey-2: #e5e5e5;
-$grey-3: #f9f9f9;
+$grey-3: #b1b3b8;
 $white: #fff;
 $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, .6);
 $code-color: #bf616a;
+
+$purple: #950470;
+$pink: #c3073f;
 
 // Fonts
 $serif-primary: 'Libre Baskerville', 'Times New Roman', Times, serif;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
 $monospaced: Menlo, Monaco, monospace;
+
+$open-sans: 'Open Sans', sans-serif;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
