@@ -1,0 +1,2 @@
+bundle exec jekyll serve - local server
+bundle exec jekyll build - build for site
